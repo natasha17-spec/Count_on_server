@@ -1,25 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "a",
-      "author": "eric"
-    },
-    {
-      "id": 2,
-      "title": "b",
-      "author": "sten"
-    },
-    {
-      "id": 3,
-      "title": "a",
-      "author": "kenny"
-    },
-    {
-      "id": 4,
-      "title": "d",
-      "author": "kail"
-    }
-  ]
+  "counter": {
+    "value": 11
+  }
 }
-
